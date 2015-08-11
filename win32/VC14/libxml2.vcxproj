@@ -334,7 +334,7 @@
     <ClInclude Include="config.h" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\libiconv\build\msvc\libiconv.vcxproj">
+    <ProjectReference Include="..\..\..\libiconv\build\msvc\libiconv-14.vcxproj">
       <Project>{4129dcce-b8b9-482a-9598-e975388b0ffd}</Project>
     </ProjectReference>
     <ProjectReference Include="..\..\..\zlib\contrib\vstudio\vc14\zlib.vcxproj">
